@@ -348,3 +348,5 @@ Please feel free to make a pull request if your publication or software is not l
 ## Acknowledgments
 
 Special thanks go to the NRC authors for helpful discussions and to [Nikolaus Binder](https://research.nvidia.com/person/nikolaus-binder) for providing part of the infrastructure of this framework, as well as for help with utilizing TensorCores from within CUDA.
+
+<!-- Auto-update: 2025-10-14T14:57:44.134980 -->
