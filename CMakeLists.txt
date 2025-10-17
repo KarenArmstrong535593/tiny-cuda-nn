@@ -388,3 +388,5 @@ if (TCNN_BUILD_TESTS)
 	add_subdirectory(tests)
 	list(APPEND CMAKE_CTEST_ARGUMENTS "--output-on-failure")
 endif()
+
+# Update: 2025-10-17
